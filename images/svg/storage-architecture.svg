@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="storage-architecture.svg"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   inkscape:export-filename="../png/storage-architecture.png"
+   inkscape:export-xdpi="119.967"
+   inkscape:export-ydpi="119.967"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.3160731"
+     inkscape:cx="380.67794"
+     inkscape:cy="336.22752"
+     inkscape:window-width="1920"
+     inkscape:window-height="1131"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:export-bgcolor="#ffffffff" />
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="marker4"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Concave triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ConcaveTriangle"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Concave triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker38"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Concave triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path38" />
+    </marker>
+    <rect
+       x="494.26263"
+       y="746.98418"
+       width="15.382258"
+       height="21.710974"
+       id="rect12" />
+    <rect
+       x="23.088965"
+       y="403.5951"
+       width="252.13149"
+       height="112.67415"
+       id="rect3" />
+    <symbol
+       id="FlowSymbols.svg:Process">
+      <title
+         id="title2">Process</title>
+      <desc
+         id="desc2">Any processing function.</desc>
+      <rect
+         x="15"
+         y="35"
+         width="120"
+         height="80"
+         style="stroke-width:2"
+         id="rect2" />
+    </symbol>
+    <symbol
+       id="FlowSymbols.svg:MagneticDisk">
+      <title
+         id="title28">Magnetic Disk (Database)</title>
+      <desc
+         id="desc28">A magnetic disk. (ISO)</desc>
+      <path
+         d="m 35,25 a 65,65 0 0 1 80,0 v 100 a 65,65 0 0 1 -80,0 z"
+         style="stroke-width:2"
+         id="path28" />
+      <path
+         d="M 115,25 A 65,65 0 0 1 35,25"
+         style="fill:none;stroke-width:2;stroke-linecap:butt"
+         id="path29" />
+      <path
+         d="M 115,40 A 65,65 0 0 1 35,40"
+         style="fill:none;stroke-width:2;stroke-linecap:butt"
+         id="path30" />
+      <path
+         d="M 115,55 A 65,65 0 0 1 35,55"
+         style="fill:none;stroke-width:2;stroke-linecap:butt"
+         id="path31" />
+    </symbol>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <use
+       xlink:href="#FlowSymbols.svg:Process"
+       style="fill:#eecbf9;fill-opacity:1;stroke:#000000;stroke-width:0.999386;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0"
+       id="use1-5-9"
+       transform="matrix(0.29278095,0,0,0.14486009,92.749802,21.884348)" />
+    <use
+       xlink:href="#FlowSymbols.svg:Process"
+       style="fill:#eecbf9;fill-opacity:1;stroke:#000000;stroke-width:0.999386;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0"
+       id="use1-5-6"
+       transform="matrix(0.29278095,0,0,0.14486009,91.162291,20.296847)" />
+    <use
+       xlink:href="#FlowSymbols.svg:Process"
+       style="fill:#eecbf9;fill-opacity:1;stroke:#000000;stroke-width:0.999386;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0"
+       id="use1-5"
+       transform="matrix(0.29278095,0,0,0.14486009,89.57479,18.709346)" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#666666;stroke:#666666;stroke-width:0.270999;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0"
+       x="98.808075"
+       y="30.889"
+       id="text1-92"><tspan
+         sodipodi:role="line"
+         id="tspan1-2"
+         style="fill:#666666;stroke-width:0.271"
+         x="98.808075"
+         y="30.889">Load Balancer</tspan></text>
+    <use
+       xlink:href="#FlowSymbols.svg:MagneticDisk"
+       style="fill:#fff6d5;stroke:#000000"
+       id="use1-7"
+       transform="matrix(0.26458333,0,0,0.26458333,88.373208,69.823384)" />
+    <use
+       xlink:href="#FlowSymbols.svg:MagneticDisk"
+       style="fill:#fff6d5;stroke:#000000"
+       id="use1-7-2"
+       transform="matrix(0.26458333,0,0,0.26458333,89.960718,71.410885)" />
+    <use
+       xlink:href="#FlowSymbols.svg:MagneticDisk"
+       style="fill:#fff6d5;stroke:#000000"
+       id="use1-7-2-0"
+       transform="matrix(0.26458333,0,0,0.26458333,91.548228,72.998386)" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text3"
+       style="font-size:13.3333px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect3);display:inline;fill:#ffe680;fill-opacity:1;stroke:#666666;stroke-width:1.02425;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#666666;fill-opacity:1;stroke:#666666;stroke-width:0.270999;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0"
+       x="108.11998"
+       y="99.772636"
+       id="text10"><tspan
+         sodipodi:role="line"
+         id="tspan10"
+         style="fill:#666666;stroke-width:0.271"
+         x="108.11998"
+         y="99.772636">SQL</tspan></text>
+    <use
+       xlink:href="#FlowSymbols.svg:MagneticDisk"
+       style="fill:#fff6d5;stroke:#000000"
+       id="use1-7-4"
+       transform="matrix(0.26458333,0,0,0.26458333,44.699373,68.115283)" />
+    <use
+       xlink:href="#FlowSymbols.svg:MagneticDisk"
+       style="fill:#fff6d5;stroke:#000000"
+       id="use1-7-2-9"
+       transform="matrix(0.26458333,0,0,0.26458333,46.286883,69.702784)" />
+    <use
+       xlink:href="#FlowSymbols.svg:MagneticDisk"
+       style="fill:#fff6d5;stroke:#000000"
+       id="use1-7-2-0-0"
+       transform="matrix(0.26458333,0,0,0.26458333,47.874393,71.290285)" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#666666;fill-opacity:1;stroke:#666666;stroke-width:0.270999;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0"
+       x="60.811604"
+       y="95.787216"
+       id="text10-9"><tspan
+         sodipodi:role="line"
+         id="tspan10-17"
+         style="fill:#666666;stroke-width:0.271"
+         x="60.811604"
+         y="95.787216">Object</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#666666;stroke-width:0.271"
+         x="60.811604"
+         y="100.19693"
+         id="tspan15">Storage</tspan></text>
+    <use
+       xlink:href="#FlowSymbols.svg:MagneticDisk"
+       style="fill:#fff6d5;stroke:#000000"
+       id="use1-7-27"
+       transform="matrix(0.26458333,0,0,0.26458333,120.44202,70.180531)" />
+    <use
+       xlink:href="#FlowSymbols.svg:MagneticDisk"
+       style="fill:#fff6d5;stroke:#000000"
+       id="use1-7-2-2"
+       transform="matrix(0.26458333,0,0,0.26458333,122.02953,71.768032)" />
+    <use
+       xlink:href="#FlowSymbols.svg:MagneticDisk"
+       style="fill:#fff6d5;stroke:#000000"
+       id="use1-7-2-0-2"
+       transform="matrix(0.26458333,0,0,0.26458333,123.61704,73.355533)" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#666666;fill-opacity:1;stroke:#666666;stroke-width:0.270999;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0"
+       x="136.12965"
+       y="95.837059"
+       id="text10-6"><tspan
+         sodipodi:role="line"
+         id="tspan10-1"
+         style="fill:#666666;stroke-width:0.271"
+         x="136.12965"
+         y="95.837059">SQL</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#666666;stroke-width:0.271"
+         x="136.12965"
+         y="100.24677"
+         id="tspan11">Read</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#666666;stroke-width:0.271"
+         x="136.12965"
+         y="104.65649"
+         id="tspan12">Replicas</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text12"
+       style="font-size:13.3333px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect12);display:inline;fill:#fff6d5;fill-opacity:1;stroke:#666666;stroke-width:1.02425;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#666666;fill-opacity:1;stroke:#666666;stroke-width:0.270999;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0"
+       x="140.88785"
+       y="69.523987"
+       id="text23"><tspan
+         sodipodi:role="line"
+         id="tspan23"
+         style="fill:#666666;stroke-width:0.271"
+         x="140.88785"
+         y="69.523987">Reads</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#666666;fill-opacity:1;stroke:#666666;stroke-width:0.270999;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0"
+       x="109.92255"
+       y="69.523987"
+       id="text24"><tspan
+         sodipodi:role="line"
+         id="tspan24"
+         style="fill:#666666;stroke-width:0.271"
+         x="109.92255"
+         y="69.523987">Writes</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#marker38);marker-end:url(#marker38)"
+       d="m 123.6384,93.004142 4.29654,-0.0116"
+       id="path45"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.262942px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#ConcaveTriangle)"
+       d="m 105.55441,38.655094 -0.62914,32.380993"
+       id="path1"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.268986px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker4)"
+       d="m 123.86195,38.537254 12.28632,33.091681"
+       id="path3"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

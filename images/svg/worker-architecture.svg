@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="worker-architecture.svg"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   inkscape:export-filename="../png/worker-architecture.png"
+   inkscape:export-xdpi="119.967"
+   inkscape:export-ydpi="119.967"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.88949324"
+     inkscape:cx="453.62908"
+     inkscape:cy="401.91424"
+     inkscape:window-width="1920"
+     inkscape:window-height="1131"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:export-bgcolor="#ffffffff" />
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="marker39"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Concave triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path39" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker35"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Concave triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path35" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker33"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Concave triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path33" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ConcaveTriangle"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Concave triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path32" />
+    </marker>
+    <rect
+       x="494.26263"
+       y="746.98418"
+       width="15.382258"
+       height="21.710974"
+       id="rect12" />
+    <rect
+       x="23.088965"
+       y="403.5951"
+       width="252.13149"
+       height="112.67415"
+       id="rect3" />
+    <symbol
+       id="FlowSymbols.svg:Process">
+      <title
+         id="title2">Process</title>
+      <desc
+         id="desc2">Any processing function.</desc>
+      <rect
+         x="15"
+         y="35"
+         width="120"
+         height="80"
+         style="stroke-width:2"
+         id="rect2" />
+    </symbol>
+    <symbol
+       id="FlowSymbols.svg:MagneticDisk">
+      <title
+         id="title28">Magnetic Disk (Database)</title>
+      <desc
+         id="desc28">A magnetic disk. (ISO)</desc>
+      <path
+         d="m 35,25 a 65,65 0 0 1 80,0 v 100 a 65,65 0 0 1 -80,0 z"
+         style="stroke-width:2"
+         id="path28" />
+      <path
+         d="M 115,25 A 65,65 0 0 1 35,25"
+         style="fill:none;stroke-width:2;stroke-linecap:butt"
+         id="path29" />
+      <path
+         d="M 115,40 A 65,65 0 0 1 35,40"
+         style="fill:none;stroke-width:2;stroke-linecap:butt"
+         id="path30" />
+      <path
+         d="M 115,55 A 65,65 0 0 1 35,55"
+         style="fill:none;stroke-width:2;stroke-linecap:butt"
+         id="path31" />
+    </symbol>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#666666;stroke-width:0;stroke-linejoin:round"
+       id="rect5"
+       width="9.0033159"
+       height="63.537689"
+       x="73.850685"
+       y="20.201025"
+       inkscape:connector-avoid="true" />
+    <use
+       xlink:href="#FlowSymbols.svg:Process"
+       style="fill:#eecbf9;fill-opacity:1;stroke:#000000;stroke-width:0.999386;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0"
+       id="use1-5-9"
+       transform="matrix(0.29278095,0,0,0.14486009,80.049798,58.926038)"
+       inkscape:connector-avoid="true" />
+    <use
+       xlink:href="#FlowSymbols.svg:Process"
+       style="fill:#eecbf9;fill-opacity:1;stroke:#000000;stroke-width:0.999386;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0"
+       id="use1-5-6"
+       transform="matrix(0.29278095,0,0,0.14486009,78.462288,57.338537)"
+       inkscape:connector-avoid="true" />
+    <use
+       xlink:href="#FlowSymbols.svg:Process"
+       style="fill:#eecbf9;fill-opacity:1;stroke:#000000;stroke-width:0.999386;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0"
+       id="use1-5"
+       transform="matrix(0.29278095,0,0,0.14486009,76.874778,55.751036)"
+       inkscape:connector-avoid="true" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#666666;stroke:#666666;stroke-width:0.270999;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0"
+       x="86.108055"
+       y="67.930702"
+       id="text1-92"><tspan
+         sodipodi:role="line"
+         id="tspan1-2"
+         style="fill:#666666;stroke-width:0.271"
+         x="86.108055"
+         y="67.930702">Scheduler</tspan></text>
+    <use
+       xlink:href="#FlowSymbols.svg:Process"
+       style="fill:#ffe680;fill-opacity:1;stroke:#000000;stroke-width:0.999386;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0"
+       id="use1-5-9-3"
+       transform="matrix(0.29278095,0,0,0.14486009,80.049798,80.256108)"
+       inkscape:connector-avoid="true" />
+    <use
+       xlink:href="#FlowSymbols.svg:Process"
+       style="fill:#ffe680;fill-opacity:1;stroke:#000000;stroke-width:0.999386;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0"
+       id="use1-5-6-6"
+       transform="matrix(0.29278095,0,0,0.14486009,78.462288,78.668607)"
+       inkscape:connector-avoid="true" />
+    <use
+       xlink:href="#FlowSymbols.svg:Process"
+       style="fill:#ffe680;fill-opacity:1;stroke:#000000;stroke-width:0.999386;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0"
+       id="use1-5-1"
+       transform="matrix(0.29278095,0,0,0.14486009,76.874778,77.081106)"
+       inkscape:connector-avoid="true" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#666666;stroke:#666666;stroke-width:0.270999;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0"
+       x="86.108055"
+       y="89.260773"
+       id="text1-92-0"><tspan
+         sodipodi:role="line"
+         id="tspan1-2-6"
+         style="fill:#666666;stroke-width:0.271"
+         x="86.108055"
+         y="89.260773">Worker Service</tspan></text>
+    <use
+       xlink:href="#FlowSymbols.svg:Process"
+       style="fill:#e9ddaf;fill-opacity:1;stroke:#000000;stroke-width:0.999386;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0"
+       id="use1-5-9-3-5"
+       transform="matrix(0.29278095,0,0,0.14486009,140.94937,109.17607)" />
+    <use
+       xlink:href="#FlowSymbols.svg:Process"
+       style="fill:#e9ddaf;fill-opacity:1;stroke:#000000;stroke-width:0.999386;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0"
+       id="use1-5-6-6-5"
+       transform="matrix(0.29278095,0,0,0.14486009,139.36186,107.58857)" />
+    <use
+       xlink:href="#FlowSymbols.svg:Process"
+       style="fill:#e9ddaf;fill-opacity:1;stroke:#000000;stroke-width:0.999386;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0"
+       id="use1-5-1-4"
+       transform="matrix(0.29278095,0,0,0.14486009,137.77435,106.00107)" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#666666;stroke:#666666;stroke-width:0.270999;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0"
+       x="147.00761"
+       y="118.18074"
+       id="text1-92-0-7"><tspan
+         sodipodi:role="line"
+         id="tspan1-2-6-6"
+         style="fill:#666666;stroke-width:0.271"
+         x="147.00761"
+         y="118.18074">Cache</tspan></text>
+    <use
+       xlink:href="#FlowSymbols.svg:Process"
+       style="fill:#e9ddaf;fill-opacity:1;stroke:#000000;stroke-width:0.999386;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0"
+       id="use1-5-9-3-5-4"
+       transform="matrix(0.29278095,0,0,0.14486009,80.04978,25.588515)"
+       inkscape:connector-avoid="true" />
+    <use
+       xlink:href="#FlowSymbols.svg:Process"
+       style="fill:#e9ddaf;fill-opacity:1;stroke:#000000;stroke-width:0.999386;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0"
+       id="use1-5-6-6-5-5"
+       transform="matrix(0.29278095,0,0,0.14486009,78.462279,24.001015)"
+       inkscape:connector-avoid="true" />
+    <use
+       xlink:href="#FlowSymbols.svg:Process"
+       style="fill:#e9ddaf;fill-opacity:1;stroke:#000000;stroke-width:0.999386;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0"
+       id="use1-5-1-4-2"
+       transform="matrix(0.29278095,0,0,0.14486009,76.874778,22.413515)"
+       inkscape:connector-avoid="true" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#666666;stroke:#666666;stroke-width:0.270999;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0"
+       x="86.109413"
+       y="34.59317"
+       id="text1-92-0-7-5"><tspan
+         sodipodi:role="line"
+         id="tspan1-2-6-6-4"
+         style="fill:#666666;stroke-width:0.271"
+         x="86.109413"
+         y="34.59317">Queue</tspan></text>
+    <use
+       xlink:href="#FlowSymbols.svg:MagneticDisk"
+       style="fill:#fff6d5;stroke:#000000"
+       id="use1-7"
+       transform="matrix(0.26458333,0,0,0.26458333,79.823556,174.96017)" />
+    <use
+       xlink:href="#FlowSymbols.svg:MagneticDisk"
+       style="fill:#fff6d5;stroke:#000000"
+       id="use1-7-2"
+       transform="matrix(0.26458333,0,0,0.26458333,81.411066,176.54768)" />
+    <use
+       xlink:href="#FlowSymbols.svg:MagneticDisk"
+       style="fill:#fff6d5;stroke:#000000"
+       id="use1-7-2-0"
+       transform="matrix(0.26458333,0,0,0.26458333,82.998576,178.13519)" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text3"
+       style="font-size:13.3333px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect3);display:inline;fill:#ffe680;fill-opacity:1;stroke:#666666;stroke-width:1.02425;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 86.172005,35.051146 v 0"
+       id="path7"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.25991px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker39)"
+       d="m 101.99734,96.92113 57.84948,13.63108"
+       id="path9"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#666666;fill-opacity:1;stroke:#666666;stroke-width:0.270999;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0"
+       x="95.86615"
+       y="204.90791"
+       id="text10"><tspan
+         sodipodi:role="line"
+         id="tspan10"
+         style="fill:#666666;stroke-width:0.271"
+         x="95.86615"
+         y="204.90791">Storage</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text12"
+       style="font-size:13.3333px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect12);display:inline;fill:#fff6d5;fill-opacity:1;stroke:#666666;stroke-width:1.02425;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#666666;fill-opacity:1;stroke:#666666;stroke-width:0.270999;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0"
+       x="154.38477"
+       y="108.02126"
+       id="text22"><tspan
+         sodipodi:role="line"
+         id="tspan22"
+         style="stroke-width:0.271;fill:#666666"
+         x="154.38477"
+         y="108.02126">Fast Reads</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#666666;fill-opacity:1;stroke:#666666;stroke-width:0.270999;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0"
+       x="107.18219"
+       y="135.09058"
+       id="text23"><tspan
+         sodipodi:role="line"
+         id="tspan23"
+         style="fill:#666666;stroke-width:0.271"
+         x="107.18219"
+         y="135.09058">Uncached Reads</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#666666;fill-opacity:1;stroke:#666666;stroke-width:0.270999;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0"
+       x="70.611122"
+       y="135.00459"
+       id="text24"><tspan
+         sodipodi:role="line"
+         id="tspan24"
+         style="fill:#666666;stroke-width:0.271"
+         x="70.611122"
+         y="135.00459">Fast Writes</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.266622px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker35)"
+       d="m 102.14817,75.729821 -0.15141,4.864938"
+       id="path34"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 89.79936,180.21484 v 0"
+       id="path1"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.268566px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker33)"
+       d="M 94.24438,97.138847 89.606896,178.83885"
+       id="path2"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.257911px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#ConcaveTriangle)"
+       d="m 101.99734,96.92113 7.71952,81.90775"
+       id="path8"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#ConcaveTriangle)"
+       d="m 102.00835,42.247425 0.25773,16.610751"
+       id="path3"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#ConcaveTriangle)"
+       d="M 81.266492,87.945612 89.894701,25.828244"
+       id="path5"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
