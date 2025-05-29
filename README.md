@@ -216,3 +216,9 @@ a format that is ideal for quick, low-latency lookups.
   <img src="images/png/denormalized-architecture.png">
   <br/>
 </p>
+
+### License
+
+> basic-application-architecture © 2025 by Gordon Messmer is licensed
+> under CC BY-SA 4.0. To view a copy of this license, visit
+> https://creativecommons.org/licenses/by-sa/4.0/
